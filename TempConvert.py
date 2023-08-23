@@ -24,6 +24,3 @@ if Selection == 'B':
     else:
         print("Invalid Character!!!\n"
               "Please Enter A Number.")
-
-else:
-    print("You can only select from A or B")
